@@ -3,6 +3,9 @@
 # Topic:
 One-shot learning
 
+# Collaborators:
+Soyun Park (PhD student in Biostatistics) Veer Bains (MS student in AI and Robotics), Kody Weber (MS student in Engineering Science)
+
 # Proposal link:
 https://docs.google.com/document/d/1DzUf9k3k5ajog_EZAoOdO5cZTU4FQJ9c/edit 
 
